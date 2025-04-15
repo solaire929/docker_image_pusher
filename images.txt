@@ -1,2 +1,2 @@
-python:3.8-bullseye
-python:3.8-slim
+nginx:1.26-alpine
+nginx:1.26
