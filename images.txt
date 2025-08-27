@@ -1,1 +1,1 @@
-nicolaka/netshoot
+filebeat:7.8.1
